@@ -11,7 +11,7 @@ const {
 
 const contextUrl = constants.CONTEXT_URL_V1;
 
-describe('Example Context', () => {
+describe('VC Status List Context', () => {
   it('constants', async () => {
     expect(appContextMap).to.exist;
     expect(constants).to.exist;
