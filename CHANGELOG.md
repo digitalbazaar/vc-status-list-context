@@ -2,4 +2,4 @@
 
 ## 1.0.0 - TBD
 
-Initial version.
+See git history for changes previous to this release.
