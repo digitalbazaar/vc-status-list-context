@@ -41,18 +41,15 @@ module.exports = {
         type: '@type',
 
         statusListCredential: {
-          '@id':
-            'https://w3id.org/vc/status-list#statusListCredential',
+          '@id': 'https://w3id.org/vc/status-list#statusListCredential',
           '@type': '@id'
         },
-        statusListIndex:
-          'https://w3id.org/vc/status-list#statusListIndex'
+        statusListIndex: 'https://w3id.org/vc/status-list#statusListIndex'
       }
     },
 
     SuspensionList2021Status: {
-      '@id':
-        'https://w3id.org/vc/status-list#SuspensionList2021Status',
+      '@id': 'https://w3id.org/vc/status-list#SuspensionList2021Status',
       '@context': {
         '@protected': true,
 
@@ -60,12 +57,10 @@ module.exports = {
         type: '@type',
 
         statusListCredential: {
-          '@id':
-            'https://w3id.org/vc/status-list#statusListCredential',
+          '@id': 'https://w3id.org/vc/status-list#statusListCredential',
           '@type': '@id'
         },
-        statusListIndex:
-          'https://w3id.org/vc/status-list#statusListIndex'
+        statusListIndex: 'https://w3id.org/vc/status-list#statusListIndex'
       }
     }
   }
