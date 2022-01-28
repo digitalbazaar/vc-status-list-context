@@ -43,7 +43,7 @@
           "@id": "https://w3id.org/vc/status-list#statusListCredential",
           "@type": "@id"
         },
-        "statusListIndex": "https://w3id.org/vc/status-list#statusListCredential"
+        "statusListIndex": "https://w3id.org/vc/status-list#statusListIndex"
       }
     }
   }
