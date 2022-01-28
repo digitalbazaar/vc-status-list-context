@@ -65,7 +65,7 @@ module.exports = {
           '@type': '@id'
         },
         statusListIndex:
-          'https://w3id.org/vc/status-list#statusListCredential'
+          'https://w3id.org/vc/status-list#statusListIndex'
       }
     }
   }
