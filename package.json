@@ -1,6 +1,6 @@
 {
   "name": "vc-status-list-context",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Verifiable Credentials Status List Context.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
