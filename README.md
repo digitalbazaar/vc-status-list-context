@@ -28,15 +28,15 @@ Requires Node.js 12+
 To install via NPM:
 
 ```
-npm install vc-status-list-context
+npm install @digitalbazaar/vc-status-list-context
 ```
 
 ## Usage
 
 ```js
-import statusListCtx from 'vc-status-list-context';
+import statusListCtx from '@digitalbazaar/vc-status-list-context';
 // or
-const statusListCtx = require('vc-status-list-context');
+const statusListCtx = require('@digitalbazaar/vc-status-list-context');
 const {contexts, constants, appContextMap} = statusListCtx;
 
 statusListCtx.CONTEXT_URL_V1

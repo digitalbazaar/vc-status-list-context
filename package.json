@@ -1,5 +1,5 @@
 {
-  "name": "vc-status-list-context",
+  "name": "@digitalbazaar/vc-status-list-context",
   "version": "1.0.1-0",
   "description": "Verifiable Credentials Status List Context.",
   "main": "js/index.js",
