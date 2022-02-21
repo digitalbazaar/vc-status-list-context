@@ -1,6 +1,6 @@
 # vc-status-list-context ChangeLog
 
-## 2.0.0 - 2022-02-TBD
+## 2.0.0 - 2022-02-21
 
 ### Changed
 - **BREAKING**: Renamed package to `@digitalbazaar/vc-status-list-context`.
