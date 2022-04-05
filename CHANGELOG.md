@@ -1,6 +1,6 @@
 # vc-status-list-context ChangeLog
 
-## 3.0.0 - 2022-04-TBD
+## 3.0.0 - 2022-04-05
 
 ### Changed
 - Sync with [W3C CCG VC Status List 2021][].
