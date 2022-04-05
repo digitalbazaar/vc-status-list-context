@@ -3,6 +3,7 @@
 ## 3.0.0 - 2022-04-TBD
 
 ### Changed
+- Sync with [W3C CCG VC Status List 2021][].
 - **BREAKING**: Update context.
   - Rename `RevocationList2021` to `StatusList2021`.
   - Rename `RevocationList2021Status` to `StatusList2021Entry`.
@@ -17,3 +18,5 @@
 ## 1.0.0 - 2022-01-31
 
 See git history for changes previous to this release.
+
+[W3C CCG VC Status List 2021]: https://github.com/w3c-ccg/vc-status-list-2021/
