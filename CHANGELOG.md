@@ -1,5 +1,10 @@
 # vc-status-list-context ChangeLog
 
+## 3.0.1 - 2022-TBD
+
+### Fixed
+- Update `CONTEXT_URL_V1` to `https://w3id.org/vc/status-list/2021/v1`.
+
 ## 3.0.0 - 2022-04-05
 
 ### Changed
