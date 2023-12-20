@@ -3,7 +3,7 @@
   "version": "3.0.2-0",
   "description": "Verifiable Credentials Status List Context.",
   "main": "js/index.js",
-  "module": "./dist/context.esm.js",
+  "module": "./dist/context.js",
   "files": [
     "contexts",
     "dist/context.js",
