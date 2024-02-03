@@ -1,7 +1,6 @@
 # vc-status-list-context _(vc-status-list-context)_
 
-[![Build status](https://img.shields.io/github/workflow/status/digitalbazaar/vc-status-list-context/Node.js%20CI)](https://github.com/digitalbazaar/vc-status-list-context/actions?query=workflow%3A%22Node.js+CI%22)
-[![Coverage status](https://img.shields.io/codecov/c/github/digitalbazaar/vc-status-list-context)](https://codecov.io/gh/digitalbazaar/vc-status-list-context)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/digitalbazaar/vc-status-list-context/main.yml)](https://github.com/digitalbazaar/vc-status-list-context/actions/workflow/main.yml)
 [![NPM Version](https://img.shields.io/npm/v/vc-status-list-context.svg)](https://npm.im/vc-status-list-context)
 
 > A Verifiable Credential Status List JSON-LD context for JavaScript.
