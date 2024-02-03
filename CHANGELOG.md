@@ -1,5 +1,10 @@
 # vc-status-list-context ChangeLog
 
+## 3.0.2 - 2024-02-xx
+
+### Fixed
+- Distribute built ESM files.
+
 ## 3.0.1 - 2022-06-10
 
 ### Fixed
