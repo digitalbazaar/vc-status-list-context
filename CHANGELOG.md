@@ -1,5 +1,10 @@
 # vc-status-list-context ChangeLog
 
+## 3.1.1 - 2024-02-xx
+
+### Fixed
+- Fix NPM badge link.
+
 ## 3.1.0 - 2024-02-02
 
 ### Fixed

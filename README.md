@@ -1,7 +1,7 @@
 # vc-status-list-context _(vc-status-list-context)_
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/digitalbazaar/vc-status-list-context/main.yml)](https://github.com/digitalbazaar/vc-status-list-context/actions/workflow/main.yml)
-[![NPM Version](https://img.shields.io/npm/v/vc-status-list-context.svg)](https://npm.im/vc-status-list-context)
+[![NPM Version](https://img.shields.io/npm/v/@digitalbazaar/vc-status-list-context.svg)](https://npm.im/@digitalbazaar/vc-status-list-context)
 
 > A Verifiable Credential Status List JSON-LD context for JavaScript.
 
