@@ -1,9 +1,16 @@
 # vc-status-list-context ChangeLog
 
-## 3.0.2 - 2024-02-xx
+## 3.1.0 - 2024-02-xx
 
 ### Fixed
 - Distribute built ESM files.
+
+### Changed
+- Updated dev dependencies.
+- **NOTE**: Soft breaking release. The built package likely still works on
+  Node.js 12+ as before, but the build dependencies were updated and only
+  support modern Node.js versions. The package is only tested on 18+ now.
+  Please report any related issues.
 
 ## 3.0.1 - 2022-06-10
 
